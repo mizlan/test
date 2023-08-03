@@ -7,6 +7,20 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        mutedPurple: {
+          50: '#faebfc',
+          100: '#e4c8ea',
+          200: '#d0a6d9',
+          300: '#bd82c9',
+          400: '#aa5fb9',
+          500: '#9145a0',
+          600: '#71367c',
+          700: '#512659',
+          800: '#321637',
+          900: '#130616',
+        }
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
