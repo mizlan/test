@@ -16,7 +16,7 @@ export default function Home() {
         bg-mutedPurple-400 text-sky-700 dark:text-green-200 dark:bg-sky-700
         hover:text-6xl
         hover:dark:text-lg`}>
-          Michael Lan
+          bing chilling
         </h1>
         <Image src={icebear} alt="ice bear from 3 bare bears" />
         <p className="px-4 py-2">
